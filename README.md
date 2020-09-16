@@ -1,2 +1,2 @@
 # Pandas_Exercise
-Cleaning and Answering the queations related to sales of products
+Cleaning and Answering the questions related to sales of products
